@@ -39,6 +39,10 @@ const TodoList = () => {
           </button>
                     </div>
                 )}
+                <div className='todo-items'>
+                    {TodoList.map(item => item.)
+                        }
+                </div>
         </div>
     );
 };
